@@ -1,12 +1,12 @@
 - 👋 Hello, I’m Devang Shah
 - 🌱 Currently, I'm a Second Year Computer Engineering Student at DJSCE, Mumbai.
-- 👀 I’m interested in Web Development & Machine learning along with Programming and Creatives.
+- 👀 I’m interested in Web Development and Machine learning along with Programming and Creatives.
 - 🔭 I’m trying to gather information regarding all the works within my reach❤
 - 💛 For the timing, I'm just craving to learn and explore more and more stuff✨
 - 💻 Skill Set:
     1. Languages : C++, Python, C, JavaScript
     2. Libraries : Numpy, Matplotlib, PIL, sklearn, Torch, Pandas, tensorflow, keras
-    3. Frontend : HTML , CSS , JavaScript 
+    3. Frontend : HTML , CSS , JavaScript, ReactJS 
     4. Hashing & Salting, CrackStation, MD5 Algorithm, rockyou.txt 
     5. Tools : Virtual Box, VS Code, Jupyter, Google Colab, CLI, MS Excel, Word, PowerPoint, Photo/Video Editor & Creatives 
     6. Soft-Skills, Management and Team-work 
