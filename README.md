@@ -8,7 +8,7 @@
     2. Libraries : Numpy, Matplotlib, PIL, sklearn, Torch, Pandas, tensorflow, keras
     3. Development Tools : HTML , CSS , JavaScript, ReactJS, Redux, Axios, Tailwind CSS, Bootstrap, NodeJS 
     4. Hashing & Salting, CrackStation, MD5 Algorithm, rockyou.txt 
-    5. Tools : Virtual Box, VS Code, Jupyter, Google Colab, CLI, MS Excel, Word, PowerPoint, Photo/Video Editor & Creatives 
+    5. Tools : Virtual Box, VS Code, Jupyter, Google Colab, CLI, MS Excel, Word, PowerPoint, Canva, Photo/Video Editor & Creatives 
     6. Soft-Skills, Management and Team-work 
 - 💞️ I’m looking to collaborate on Open Source Projects, enhance my skillset and learn to work on a project with a variety of people👬 
 - 💡 Currently, I am learning Data Science and Deep Learning. Also, working on a research project based on Natural Language Processing.🖥️
