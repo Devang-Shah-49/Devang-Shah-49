@@ -5,7 +5,7 @@
 - 💛 For the timing, I'm just craving to learn and explore more and more stuff✨
 - 💻 Skill Set:
     1. Languages : C++, Python, C, JavaScript, MySQL
-    2. Libraries : Numpy, Matplotlib, PIL, sklearn, Torch, Pandas, tensorflow, keras
+    2. Libraries : Numpy, Matplotlib, PIL, sklearn, Scipy, PyTorch, Pandas, tensorflow, keras
     3. Development Tools : HTML , CSS , JavaScript, ReactJS, Redux, Axios, Tailwind CSS, Bootstrap, NodeJS 
     4. Hashing & Salting, CrackStation, MD5 Algorithm, rockyou.txt 
     5. Tools : Virtual Box, VS Code, Jupyter, Google Colab, CLI, MS Excel, Word, PowerPoint, Canva, Photo/Video Editor & Creatives 
