@@ -15,7 +15,8 @@
 - 📫 I love connecting with different people so if you want to say hi, I'll be happy to meet you! Reach me at:
     1. Mail I'd - devangvshah16@gmail.com
     2. LinkedIn - https://www.linkedin.com/in/devang-shah-63a29b210 
-    3. Website - https://portfoliobydevang.netlify.app/
+    3. Twitter - https://twitter.com/dvs_1611
+    4. Website - https://portfoliobydevang.netlify.app/
  <br>![](https://komarev.com/ghpvc/?username=Devang-Shah-49) <br>
 
 
