@@ -17,7 +17,7 @@
     2. LinkedIn - https://www.linkedin.com/in/devang-shah-63a29b210 
     3. Twitter - https://twitter.com/dvs_1611
     4. Website - https://portfoliobydevang.netlify.app/
- <br>![](https://komarev.com/ghpvc/?username=Devang-Shah-49) <br>
+ <br> <br>![](https://komarev.com/ghpvc/?username=Devang-Shah-49) <br>
 
 
 
