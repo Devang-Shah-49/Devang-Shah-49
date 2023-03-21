@@ -4,7 +4,7 @@
 - 🔭 I’m trying to gather information regarding all the works within my reach❤
 - 💛 For the timing, I'm just craving to learn and explore more and more stuff✨
 - 💻 Skill Set:
-    1. Languages : C++, Python, C, JavaScript, MySQL
+    1. Languages : C++, Python, C, JavaScript, TypeScript, MySQL
     2. Libraries : Numpy, Matplotlib, PIL, sklearn, Scipy, PyTorch, Pandas, tensorflow, keras
     3. Development Tools : HTML , CSS , JavaScript, ReactJS, Redux, Axios, Tailwind CSS, Bootstrap, NodeJS 
     4. Hashing & Salting, CrackStation, MD5 Algorithm, rockyou.txt 
