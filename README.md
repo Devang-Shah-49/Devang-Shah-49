@@ -11,7 +11,7 @@
     5. Tools : Virtual Box, VS Code, Jupyter, Google Colab, CLI, MS Excel, Word, PowerPoint, Canva, Photo/Video Editor & Creatives 
     6. Soft-Skills, Management and Team-work 
 - 💞️ I’m looking to collaborate on Open Source Projects, enhance my skillset and learn to work on a project with a variety of people👬 
-- 💡 Currently, I am learning Data Science and Deep Learning. Also, working on a research project based on Natural Language Processing.🖥️
+- 💡 Currently, I am learning Data Science and Deep Learning. Also, working on a research project based on Computer Vision.🖥️
 - 📫 I love connecting with different people so if you want to say hi, I'll be happy to meet you! Reach me at:
     1. Mail I'd - devangvshah16@gmail.com
     2. LinkedIn - http://www.linkedin.com/in/devang-shah-63a29b210 
