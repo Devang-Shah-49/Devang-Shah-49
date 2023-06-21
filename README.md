@@ -11,7 +11,7 @@
     5. Tools : Virtual Box, Visual Studio, Canva, Docker, Google Cloud Vertex AI Workbench, AWS S3, Apache Kafka  
     6. Soft-Skills, Management and Team-work 
 - 💞️ I’m looking to collaborate on Open Source Projects, enhance my skillset and learn to work on a project with a variety of people👬 
-- 💡 Currently, I am learning Data Science and Deep Learning. Also, working on a research project based on Computer Vision.🖥️
+- 💡 Currently, I am learning Data Science and Deep Learning. Also, working on research projects.🖥️
 - 📫 I love connecting with different people so if you want to say hi, I'll be happy to meet you! Reach me at:
     1. Mail I'd - devangvshah16@gmail.com
     2. LinkedIn - http://www.linkedin.com/in/devang-shah-63a29b210 
