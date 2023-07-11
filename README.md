@@ -1,5 +1,5 @@
 - 👋 Hello, I’m Devang Shah
-- 🌱 Currently, I'm a Third Year Computer Engineering Student at DJSCE, Mumbai.
+- 🌱 Currently, I'm a Final Year Computer Engineering Student at DJSCE, Mumbai.
 - 👀 I’m interested in Web Development and Machine learning along with Programming and Creatives.
 - 🔭 I’m trying to gather information regarding all the works within my reach❤
 - 💛 For the timing, I'm just craving to learn and explore more and more stuff✨
